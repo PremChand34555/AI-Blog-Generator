@@ -1,7 +1,8 @@
 {
-  "name": "p8",
+  "name": "ai-blog-generator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://PremChand34555.github.io/AI-Blog-Generator",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.14.0",
@@ -16,6 +17,7 @@
     "@types/react-dom": "^19.1.6",
     "axios": "^1.10.0",
     "framer-motion": "^12.18.1",
+    "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-router-dom": "^7.6.2",
@@ -26,6 +28,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
