@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AI-Blog-Generator/static/css/main.5e0ad2b5.css",
+    "main.js": "/AI-Blog-Generator/static/js/main.5a18467d.js",
+    "index.html": "/AI-Blog-Generator/index.html",
+    "main.5e0ad2b5.css.map": "/AI-Blog-Generator/static/css/main.5e0ad2b5.css.map",
+    "main.5a18467d.js.map": "/AI-Blog-Generator/static/js/main.5a18467d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e0ad2b5.css",
+    "static/js/main.5a18467d.js"
+  ]
+}
