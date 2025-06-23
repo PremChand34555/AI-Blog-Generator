@@ -2,6 +2,10 @@
 
 A React application that uses OpenAI's API to generate complete blog posts from a given topic.
 
+# Preview
+![image](https://github.com/user-attachments/assets/a0a48469-0c28-481b-918d-202f40150c5f)
+
+
 ## Features
 
 - Generate complete blog posts with proper formatting
